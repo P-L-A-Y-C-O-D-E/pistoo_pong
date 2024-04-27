@@ -1,0 +1,6 @@
+ColorRect
+CollisionShape2D
+CharacterBody2D
+PhysicalBone2D
+Area2D
+StaticBody2D
